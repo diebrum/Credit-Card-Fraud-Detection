@@ -9,3 +9,5 @@ Abaixo seguem as descrições dos arquivos disponibilizados.
 script.py: Arquivo com os códigos desenvolvidos em Python. Inicialmente o projeto foi desenvolvido em um Jupyter Notebook, logo, no script tem indicações dos diferentes blocos de código que foram feitos, caso o usuário queira visualizar os resultados por partes. No artigo disponibilizado no Medium, explico todas as etapas em detalhes.
 
 SWEETVIZ_REPORT.html: Arquivo gerado pelo Sweetviz. Basta abrir no navegador e então uma série de operações para análises exploratórias serão exibidas na tela para os dados do dataframe.
+
+Os dados utilizados neste trabalho foram obtidos via Kaggle, todos os passos para aquisição dos dados também estão disponíveis no artigo no Medium. 
