@@ -91,8 +91,6 @@ dashboard.show_html()
 #Organizando os dados para treinamento dos modelos
 
 
-from sklearn.model_selection import train_test_split
-
 X = df.iloc[:, :-1]
 y = df.iloc[:, -1]
 
