@@ -258,6 +258,7 @@ valor_estimado
 dif=y_test-prediction
 tam=dif.size
 ind=[]
+
 for i in range(tam):
   if dif.iloc[i]!=0:
     ind.append(X_test.iloc[i,2])
